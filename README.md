@@ -1,4 +1,4 @@
-# 🍽️ MYNORA - Clothing Website
+# MYNORA - Clothing Website
 
 Welcome to **MYNORA**, an elegant and modern clothing e-commerce website designed for fashion enthusiasts. This project features a stylish landing page, a product showcase, and an intuitive shopping experience.
 
